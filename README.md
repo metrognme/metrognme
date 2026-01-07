@@ -25,7 +25,7 @@ Atuo na intersecção entre o **Direito, Gestão e Tecnologia**. Minha missão �
 
 ## 🎓 Formação & Especializações
 
-- **MBA em Auditoria Digital e Compliance** – IPOG
+- **MBA em Auditoria Tributário e Compliance** – IPOG
 - **Pós-graduação em Direito do Trabalho**
 - **Bacharel em Direito** – PUC-Goiás
 
